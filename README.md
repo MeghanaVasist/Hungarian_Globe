@@ -1,9 +1,11 @@
 # Hungarian_Globe
 The implementation is written in a single file called Search.py. This file is a Python-3.6 file which contains the implementation of Breadth First Search and A Star Search for the given Hungarian Globe puzzle. The code can be executed from the command prompt as:
 
-python Search.py BFS <File name> for Breadth first search.
+Breadth first search:
+python Search.py BFS \<File name\> 
 
-python Search.py AStar <File name> for A Star search.
+A Star search:
+python Search.py AStar \<File name\>
 
 The libraries used are: heapq and sys.
 
