@@ -10,3 +10,5 @@ python Search.py AStar \<File name\>
 The libraries used are: heapq and sys.
 
 The data is given in a separate folder called data. In order to execute the program successfully, these files must be in the same folder as the python file.
+
+For a detailed report, take a look at the Report.pdf file.
